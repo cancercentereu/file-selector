@@ -1,2 +1,2 @@
-export {fromEvent} from './file-selector';
+export {fromEvent, getDataTransferFiles} from './file-selector';
 export {FileWithPath} from './file';

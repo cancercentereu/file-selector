@@ -30,6 +30,5 @@ Icon
 coverage
 build
 docs
-dist
 out-tsc
 tmp

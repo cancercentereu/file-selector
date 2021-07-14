@@ -46,6 +46,8 @@
     "test": "jest --watch"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.171",
+    "lodash": "^4.17.21",
     "tslib": "^2.0.3"
   },
   "devDependencies": {
